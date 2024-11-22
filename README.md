@@ -1,6 +1,6 @@
 # Early-diabetes-prediction-deployment
 
-- Data Cleasing pipeline such as ETL
+- Data Cleasning pipeline
 - Feature selection 
-- Design and implemented **Machine Learning Models** for Risk Prediction of Early-Stage 
+- Designed and implemented **Machine Learning Models** for Risk Prediction of Early-Stage 
 Diabetes and achieved **97% accuracy using Random Forest and XGBOOST**.
